@@ -1,0 +1,42 @@
+Machine learning (ML) is a category of an algorithm that allows software applications to become 
+more accurate in predicting outcomes without being explicitly programmed. 
+
+Supervised learning is a technique in which we teach or train the machine using data which is 
+well labeled. This approach is similar to human learning under the supervision of a teacher. 
+The teacher provides good examples for the student to memorize, and the student then derives 
+general rules from these specific examples.
+
+Regression problems: the target is a numeric value.  
+Example: determines the average prices of houses in the certain area
+
+Classification problems: the target is a qualitative variable, such as a class or a tag. 
+Example: distinguishes between kinds of iris flowers based on their sepal and petal measures.
+
+Unsupervised learning involves training by using unlabeled data 
+and allowing the model to act on that information without guidance.
+Some recommendation systems that you find on the web in the form of 
+marketing automation are based on this type of learning.
+The marketing automation algorithm derives its suggestions from what 
+you’ve bought in the past. The recommendations are based on an estimation of 
+what group of customers you resemble the most and then inferring your likely preferences based on that group.
+
+Reinforcement Learning is a part of Machine learning where an agent is put 
+in an environment and he learns to behave in this environment by performing certain 
+actions and observing the rewards which it gets from those actions.
+In the human world, it is just like learning by trial and error.
+Errors help you learn because they have a penalty added (cost, loss of time, regret, 
+pain, and so on), teaching you that a certain course of action is less likely to succeed than others. 
+Example: when computers learn to play video games by themselves.
+
+Regression analysis is a statistical tool for the investigation of relationships 
+between variables. Usually, the investigator seeks to ascertain the causal effect of one 
+variable upon another — the effect of a price increase upon demand, for example, or the effect 
+of changes in the money supply upon the inflation rate.
+
+A chat bot is a software encoded robot that is able to respond to messages that a user sends
+Chatbots are usually found on online shops for faster customer service responds towards template questions
+A sample chatbot that has been commercially used as an application is SimSimi
+
+Linear regression is a linear model, e.g. a model that assumes a linear relationship between the input 
+variables (x) and the single output variable (y). More specifically, that y can be 
+calculated from a linear combination of the input variables (x)
