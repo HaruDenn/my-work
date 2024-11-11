@@ -1,0 +1,138 @@
+ID,TITLE,ABSTRACT,Computer Science,Physics,Mathematics,Statistics,Quantitative Biology
+1,Reconstructing Subject-Specific Effect Maps,"  Predictive models allow subject-specific inference when analyzing disease
+related alterations in neuroimaging data. Given a subject's data, inference can
+be made at two levels: global, i.e. identifiying condition presence for the
+subject, and local, i.e. detecting condition effect on each individual
+measurement extracted from the subject's data. While global inference is widely
+used, local inference, which can be used to form subject-specific effect maps,
+is rarely used because existing models often yield noisy detections composed of
+dispersed isolated islands. In this article, we propose a reconstruction
+method, named RSM, to improve subject-specific detections of predictive
+modeling approaches and in particular, binary classifiers. RSM specifically
+aims to reduce noise due to sampling error associated with using a finite
+sample of examples to train classifiers. The proposed method is a wrapper-type
+algorithm that can be used with different binary classifiers in a diagnostic
+manner, i.e. without information on condition presence. Reconstruction is posed
+as a Maximum-A-Posteriori problem with a prior model whose parameters are
+estimated from training data in a classifier-specific fashion. Experimental
+evaluation is performed on synthetically generated data and data from the
+Alzheimer's Disease Neuroimaging Initiative (ADNI) database. Results on
+synthetic data demonstrate that using RSM yields higher detection accuracy
+compared to using models directly or with bootstrap averaging. Analyses on the
+ADNI dataset show that RSM can also improve correlation between
+subject-specific detections in cortical thickness data and non-imaging markers
+of Alzheimer's Disease (AD), such as the Mini Mental State Examination Score
+and Cerebrospinal Fluid amyloid-$\beta$ levels. Further reliability studies on
+the longitudinal ADNI dataset show improvement on detection reliability when
+RSM is used.
+",1,0,0,0,0
+2,Rotation Invariance Neural Network,"  Rotation invariance and translation invariance have great values in image
+recognition tasks. In this paper, we bring a new architecture in convolutional
+neural network (CNN) named cyclic convolutional layer to achieve rotation
+invariance in 2-D symbol recognition. We can also get the position and
+orientation of the 2-D symbol by the network to achieve detection purpose for
+multiple non-overlap target. Last but not least, this architecture can achieve
+one-shot learning in some cases using those invariance.
+",1,0,0,0,0
+3,Spherical polyharmonics and Poisson kernels for polyharmonic functions,"  We introduce and develop the notion of spherical polyharmonics, which are a
+natural generalisation of spherical harmonics. In particular we study the
+theory of zonal polyharmonics, which allows us, analogously to zonal harmonics,
+to construct Poisson kernels for polyharmonic functions on the union of rotated
+balls. We find the representation of Poisson kernels and zonal polyharmonics in
+terms of the Gegenbauer polynomials. We show the connection between the
+classical Poisson kernel for harmonic functions on the ball, Poisson kernels
+for polyharmonic functions on the union of rotated balls, and the Cauchy-Hua
+kernel for holomorphic functions on the Lie ball.
+",0,0,1,0,0
+4,A finite element approximation for the stochastic Maxwell--Landau--Lifshitz--Gilbert system,"  The stochastic Landau--Lifshitz--Gilbert (LLG) equation coupled with the
+Maxwell equations (the so called stochastic MLLG system) describes the creation
+of domain walls and vortices (fundamental objects for the novel nanostructured
+magnetic memories). We first reformulate the stochastic LLG equation into an
+equation with time-differentiable solutions. We then propose a convergent
+$\theta$-linear scheme to approximate the solutions of the reformulated system.
+As a consequence, we prove convergence of the approximate solutions, with no or
+minor conditions on time and space steps (depending on the value of $\theta$).
+Hence, we prove the existence of weak martingale solutions of the stochastic
+MLLG system. Numerical results are presented to show applicability of the
+method.
+",0,0,1,0,0
+5,Comparative study of Discrete Wavelet Transforms and Wavelet Tensor Train decomposition to feature extraction of FTIR data of medicinal plants,"  Fourier-transform infra-red (FTIR) spectra of samples from 7 plant species
+were used to explore the influence of preprocessing and feature extraction on
+efficiency of machine learning algorithms. Wavelet Tensor Train (WTT) and
+Discrete Wavelet Transforms (DWT) were compared as feature extraction
+techniques for FTIR data of medicinal plants. Various combinations of signal
+processing steps showed different behavior when applied to classification and
+clustering tasks. Best results for WTT and DWT found through grid search were
+similar, significantly improving quality of clustering as well as
+classification accuracy for tuned logistic regression in comparison to original
+spectra. Unlike DWT, WTT has only one parameter to be tuned (rank), making it a
+more versatile and easier to use as a data processing tool in various signal
+processing applications.
+",1,0,0,1,0
+6,On maximizing the fundamental frequency of the complement of an obstacle,"  Let $\Omega \subset \mathbb{R}^n$ be a bounded domain satisfying a
+Hayman-type asymmetry condition, and let $ D $ be an arbitrary bounded domain
+referred to as ""obstacle"". We are interested in the behaviour of the first
+Dirichlet eigenvalue $ \lambda_1(\Omega \setminus (x+D)) $. First, we prove an
+upper bound on $ \lambda_1(\Omega \setminus (x+D)) $ in terms of the distance
+of the set $ x+D $ to the set of maximum points $ x_0 $ of the first Dirichlet
+ground state $ \phi_{\lambda_1} > 0 $ of $ \Omega $. In short, a direct
+corollary is that if \begin{equation} \mu_\Omega := \max_{x}\lambda_1(\Omega
+\setminus (x+D)) \end{equation} is large enough in terms of $ \lambda_1(\Omega)
+$, then all maximizer sets $ x+D $ of $ \mu_\Omega $ are close to each maximum
+point $ x_0 $ of $ \phi_{\lambda_1} $.
+Second, we discuss the distribution of $ \phi_{\lambda_1(\Omega)} $ and the
+possibility to inscribe wavelength balls at a given point in $ \Omega $.
+Finally, we specify our observations to convex obstacles $ D $ and show that
+if $ \mu_\Omega $ is sufficiently large with respect to $ \lambda_1(\Omega) $,
+then all maximizers $ x+D $ of $ \mu_\Omega $ contain all maximum points $ x_0
+$ of $ \phi_{\lambda_1(\Omega)} $.
+",0,0,1,0,0
+7,On the rotation period and shape of the hyperbolic asteroid 1I/`Oumuamua (2017) U1 from its lightcurve,"  We observed the newly discovered hyperbolic minor planet 1I/`Oumuamua (2017
+U1) on 2017 October 30 with Lowell Observatory's 4.3-m Discovery Channel
+Telescope. From these observations, we derived a partial lightcurve with
+peak-to-trough amplitude of at least 1.2 mag. This lightcurve segment rules out
+rotation periods less than 3 hr and suggests that the period is at least 5 hr.
+On the assumption that the variability is due to a changing cross section, the
+axial ratio is at least 3:1. We saw no evidence for a coma or tail in either
+individual images or in a stacked image having an equivalent exposure time of
+9000 s.
+",0,1,0,0,0
+8,Adverse effects of polymer coating on heat transport at solid-liquid interface,"  The ability of metallic nanoparticles to supply heat to a liquid environment
+under exposure to an external optical field has attracted growing interest for
+biomedical applications. Controlling the thermal transport properties at a
+solid-liquid interface then appears to be particularly relevant. In this work,
+we address the thermal transport between water and a gold surface coated by a
+polymer layer. Using molecular dynamics simulations, we demonstrate that
+increasing the polymer density displaces the domain resisting to the heat flow,
+while it doesn't affect the final amount of thermal energy released in the
+liquid. This unexpected behavior results from a trade-off established by the
+increasing polymer density which couples more efficiently with the solid but
+initiates a counterbalancing resistance with the liquid.
+",0,1,0,0,0
+9,"SPH calculations of Mars-scale collisions: the role of the Equation of State, material rheologies, and numerical effects","  We model large-scale ($\approx$2000km) impacts on a Mars-like planet using a
+Smoothed Particle Hydrodynamics code. The effects of material strength and of
+using different Equations of State on the post-impact material and temperature
+distributions are investigated. The properties of the ejected material in terms
+of escaping and disc mass are analysed as well. We also study potential
+numerical effects in the context of density discontinuities and rigid body
+rotation. We find that in the large-scale collision regime considered here
+(with impact velocities of 4km/s), the effect of material strength is
+substantial for the post-impact distribution of the temperature and the
+impactor material, while the influence of the Equation of State is more subtle
+and present only at very high temperatures.
+",0,1,0,0,0
+10,$\mathcal{R}_{0}$ fails to predict the outbreak potential in the presence of natural-boosting immunity,"  Time varying susceptibility of host at individual level due to waning and
+boosting immunity is known to induce rich long-term behavior of disease
+transmission dynamics. Meanwhile, the impact of the time varying heterogeneity
+of host susceptibility on the shot-term behavior of epidemics is not
+well-studied, even though the large amount of the available epidemiological
+data are the short-term epidemics. Here we constructed a parsimonious
+mathematical model describing the short-term transmission dynamics taking into
+account natural-boosting immunity by reinfection, and obtained the explicit
+solution for our model. We found that our system show ""the delayed epidemic"",
+the epidemic takes off after negative slope of the epidemic curve at the
+initial phase of epidemic, in addition to the common classification in the
+standard SIR model, i.e., ""no epidemic"" as $\mathcal{R}_{0}\leq1$ or normal
+epidemic as $\mathcal{R}_{0}>1$. Employing the explicit solution we derived the
+condition for each classification.
+",0,0,0,0,1
